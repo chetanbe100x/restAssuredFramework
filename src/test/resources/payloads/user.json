@@ -1,0 +1,22 @@
+{
+  "name": "John Doe",
+  "username": "johndoe",
+  "email": "john.doe@example.com",
+  "phone": "123-456-7890",
+  "website": "johndoe.com",
+  "address": {
+    "street": "123 Main St",
+    "suite": "Apt 4B",
+    "city": "New York",
+    "zipcode": "10001",
+    "geo": {
+      "lat": "40.7128",
+      "lng": "-74.0060"
+    }
+  },
+  "company": {
+    "name": "Test Company",
+    "catchPhrase": "Testing is fun",
+    "bs": "quality assurance"
+  }
+}
